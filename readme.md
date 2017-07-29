@@ -1,5 +1,8 @@
 ## Face Rank - Rank Face by CNN Model based on TensorFlow
 
+## 中文 readme
+https://github.com/fendouai/FaceRank/blob/master/cn_readme.md
+
 ## Privacy
 Because of privacy，the training images dataset is not provided.
 maybe some carton images will be given later.
@@ -24,6 +27,3 @@ After you run the train_model.py ,just run the run_model.py to test.
 The model is trained can be download at
 http://www.tensorflownews.com/
 
-## 图片像素要提高
-## 增加数据集
-## 在临近的层次，用公用的图片：比如1-3；4-6；7-9 用相似或者相同图片。
