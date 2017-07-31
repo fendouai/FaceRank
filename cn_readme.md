@@ -1,5 +1,9 @@
 ## FaceRank-人脸打分基于 TensorFlow 的 CNN 模型
 
+## 结果图片
+如有侵权，请通知删除，结果由 FaceRank AI 输出。
+![Result Pic](https://github.com/fendouai/FaceRank/blob/master/result_pic.jpg)
+
 ## 隐私
 因为隐私问题，训练图片集并不提供，稍微可能会放一些卡通图片。
 
