@@ -30,3 +30,6 @@ After you run the train_model.py ,just run the run_model.py to test.
 The model is trained can be download at
 http://www.tensorflownews.com/
 
+## WechatGroup
+![Result Pic](https://github.com/fendouai/FaceRank/blob/master/wechatgroup.jpg)
+

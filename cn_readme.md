@@ -57,3 +57,6 @@ Test Finished!
 * 图片像素要提高
 * 增加数据集
 * 在临近的层次，用公用的图片：比如1-3；4-6；7-9 用相似或者相同图片。
+
+## 微信群：
+![Result Pic](https://github.com/fendouai/FaceRank/blob/master/wechatgroup.jpg)
