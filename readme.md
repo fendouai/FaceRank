@@ -3,6 +3,9 @@
 ## 中文 readme
 https://github.com/fendouai/FaceRank/blob/master/cn_readme.md
 
+## Result Pic
+![Result Pic](https://github.com/fendouai/FaceRank/blob/master/result_pic.jpg)
+
 ## Privacy
 Because of privacy，the training images dataset is not provided.
 maybe some carton images will be given later.
