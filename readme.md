@@ -4,7 +4,7 @@
 https://github.com/fendouai/FaceRank/blob/master/cn_readme.md
 
 ## Result Pic
-![Result Pic](https://github.com/fendouai/FaceRank/blob/master/result_pic.jpg)
+![Result Pic](https://github.com/fendouai/FaceRank/blob/master/facerank.jpg)
 
 ## Privacy
 Because of privacy，the training images dataset is not provided.
