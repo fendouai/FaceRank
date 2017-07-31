@@ -1,6 +1,5 @@
 ```
 
-/anaconda/bin/python2.7 /Users/wangfei/PycharmProjects/FaceRank/train_model.py
 (?, 128, 128, 24)
 (?, 64, 64, 24)
 (?, 64, 64, 96)
