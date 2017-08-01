@@ -33,6 +33,7 @@ http://www.tensorflownews.com/
 ## WechatGroup
 ![Result Pic](https://github.com/fendouai/FaceRank/blob/master/wechatgroup.jpg)
 
-## Thanks @HadXu develop the keras version
+## Thanks 
+@HadXu develop the keras version
 https://github.com/fendouai/FaceRank/tree/master/FaceRank_with_keras
 
