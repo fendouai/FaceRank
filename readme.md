@@ -1,6 +1,6 @@
 ## Face Rank - Rank Face by CNN Model based on TensorFlow
 
-## 中文 readme
+## 中文说明（QQ群：522785813）
 https://github.com/fendouai/FaceRank/blob/master/cn_readme.md
 
 ## Result Pic
