@@ -25,7 +25,7 @@ The world's simplest facial recognition api for Python and the command line
 
 ## 训练数据集生成工具
 * 文件夹截图
-![fileinfo.png](http://upload-images.jianshu.io/upload_images/76451-dbe34a6ab015b96d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![fileinfo.png](http://www.tensorflownews.com/wp-content/uploads/2017/08/fileinfo.png)
 
 * 标注说明 
 文件夹中  1-2.jpg 表明这是 1分的图片，2是第2张。也就是 “-”前面的数字就是分数。
