@@ -1,3 +1,7 @@
+#  FaceRank，最有趣的 TensorFlow 入门实战项目
+##  TensorFlow 从观望到入门！
+https://github.com/fendouai/FaceRank
+
 ## 最有趣？
 机器学习是不是很无聊，用来用去都是识别字体。能不能帮我找到颜值高的妹子，顺便提高一下姿势水平。
 
