@@ -2,6 +2,7 @@
 
 ## 中文说明（QQ群：522785813）
 https://github.com/fendouai/FaceRank/blob/master/cn_readme.md
+
 新增详细说明：https://github.com/fendouai/FaceRank/blob/master/toturial.md
 
 ## Result Pic
