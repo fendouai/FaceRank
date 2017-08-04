@@ -11,3 +11,5 @@ https://blog.keras.io/the-future-of-deep-learning.html
   http://www.tensorflownews.com/2017/08/03/facerank-tensorflow-cnn-model/
 
 * 欢迎提交更多的模型，欢迎 PR。
+
+## 数据集（因为涉及隐私问题，还没想到比较好的思路直接放出来。）
