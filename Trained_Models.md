@@ -16,4 +16,6 @@ http://www.tensorflownews.com/2017/08/02/facerank-tensorflow-face_recognition/
 
 * 欢迎提交更多的模型，欢迎 PR。
 
-## 数据集（因为涉及隐私问题，还没想到比较好的思路直接放出来。）
+## 数据集
+* 网上的一个人脸数据集（格式和 FaceRank 的并不完全一样，需要重新处理。）
+http://www.hcii-lab.net/data/SCUT-FBP/EN/introduce.html
