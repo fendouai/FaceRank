@@ -3,7 +3,9 @@
 ## Keras Version
 https://github.com/fendouai/FaceRank/tree/master/FaceRank_with_keras
 
-## A deep learning based model to judge the AQ, Appearance Quotient, of faces. (For Chinese Young Girls Only) https://github.com/Entropy-xcy/RankFace
+## RankFace
+
+A deep learning based model to judge the AQ, Appearance Quotient, of faces. (For Chinese Young Girls Only) https://github.com/Entropy-xcy/RankFace
 
 ## 中文说明（QQ群：522785813）
 https://github.com/fendouai/FaceRank/blob/master/cn_readme.md
