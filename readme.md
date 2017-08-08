@@ -8,9 +8,9 @@ https://github.com/fendouai/FaceRank/tree/master/FaceRank_with_keras
 A deep learning based model to judge the AQ, Appearance Quotient, of faces. (For Chinese Young Girls Only) https://github.com/Entropy-xcy/RankFace
 
 ## 中文说明（QQ群：522785813）
-https://github.com/fendouai/FaceRank/blob/master/cn_readme.md
 
-新增详细说明：https://github.com/fendouai/FaceRank/blob/master/toturial.md
+项目总体说明：https://github.com/fendouai/FaceRank/blob/master/cn_readme.md
+运行详细说明：https://github.com/fendouai/FaceRank/blob/master/toturial.md
 
 ## Result Pic
 ![Result Pic](https://github.com/fendouai/FaceRank/blob/master/cang.jpg)
@@ -25,7 +25,7 @@ image: 1-3.jpg means rank 1,3st train pic
 you can add your own pics to the resize_images folder
 
 ## Model
-Model is CNN based on TensorFlow based on : https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/convolutional_network.py
+Model is CNN based on TensorFlow based on : https://github.com/aymericdamien/TensorFlow-Examples/
 
 ## Run
 After you installed TensorFlow ,just run train_model.py.
