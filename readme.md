@@ -43,6 +43,8 @@ http://www.tensorflownews.com/
 ## WechatGroup
 ![Result Pic](https://github.com/fendouai/FaceRank/blob/master/wechatgroup.jpg)
 
+If it is out of time,you can go to http://www.tensorflownews.com/ ,I will update the wechat group qcode here.
+
 ## Thanks 
 @HadXu develop the keras version
 https://github.com/fendouai/FaceRank/tree/master/FaceRank_with_keras

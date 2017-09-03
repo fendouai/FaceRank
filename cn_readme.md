@@ -60,3 +60,5 @@ Test Finished!
 
 ## 微信群：
 ![Result Pic](https://github.com/fendouai/FaceRank/blob/master/wechatgroup.jpg)
+
+如果二维码过期，请到这里 http://www.tensorflownews.com/ 会保持更新。
