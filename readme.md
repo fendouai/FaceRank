@@ -13,6 +13,12 @@ A deep learning based model to judge the AQ, Appearance Quotient, of faces. (For
 
 运行详细说明：https://github.com/fendouai/FaceRank/blob/master/toturial.md
 
+Gitee(速度更快)
+
+项目总体说明：https://gitee.com/fendouai/FaceRank/blob/master/cn_readme.md
+
+运行详细说明：https://gitee.com/fendouai/FaceRank/blob/master/toturial.md
+
 ## Result Pic
 ![Result Pic](https://github.com/fendouai/FaceRank/blob/master/cang.jpg)
 
