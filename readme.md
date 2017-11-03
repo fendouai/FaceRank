@@ -47,7 +47,6 @@ The model is trained can be download at
 http://www.tensorflownews.com/
 
 ## WechatGroup
-![Result Pic](https://github.com/fendouai/FaceRank/blob/master/wechatgroup.jpg)
 
 If it is out of time,you can go to http://www.tensorflownews.com/ ,I will update the wechat group qcode here.
 
