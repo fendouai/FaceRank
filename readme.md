@@ -20,7 +20,7 @@ Gitee(速度更快)
 运行详细说明：https://gitee.com/fendouai/FaceRank/blob/master/toturial.md
 
 ## Result Pic
-![Result Pic](https://github.com/fendouai/FaceRank/blob/master/cang.jpg)
+![Result Pic](./cang.jpg)
 
 ## Privacy
 Because of privacy，the training images dataset is not provided.
